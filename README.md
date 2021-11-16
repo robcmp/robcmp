@@ -15,7 +15,7 @@
 
 <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robcmp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
 
-<p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robcmp&show_icons=true&locale=en&layout=compact" alt="robcmp" />
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robcmp&" alt="robcmp" /></p>
