@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤘🏻, I'm Roberto Mendoza</h1>
 <h3 align="center">A creative and problem solver Software Engineer learning everyday...</h3>
 
-- 🌱 I’m currently learning **TypeScript, Express, Java and many more...**
+- 🌱 I’m currently learning **TypeScript, SwiftUI, UIToolkit, GCP , and many more...**
 
 - 📫 How to reach me **roberto.cmp16@gmail.com**
 
