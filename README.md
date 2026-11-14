@@ -1,19 +1,53 @@
-<h1 align="center">Hi 🤘🏻, I'm Roberto Mendoza</h1>
-<h3 align="center">A creative and problem solver Software Engineer learning everyday...</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **TypeScript, SwiftUI, UIToolkit, GCP , and many more...**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=3DFF8B&center=true&vCenter=true&width=620&lines=%24+whoami;Roberto+Mendoza+%E2%80%94+Frontend+Engineer+%40+Entel;Less+friction.+More+product.;Frontend+%C2%B7+Full+Stack+%C2%B7+Cloud+%C2%B7+Applied+AI" alt="whoami — Roberto Mendoza, Frontend Engineer at Entel" />
 
-- 📫 How to reach me **roberto.cmp16@gmail.com**
+# Roberto Mendoza
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rc-mendoza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rc-mendoza/" height="30" width="40" /></a>
+**Frontend Engineer · Full Stack · Cloud · Applied AI** — Santiago, Chile
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-rc--mendoza-3dff8b?style=flat-square&logo=linkedin&logoColor=3dff8b&labelColor=070807)](https://www.linkedin.com/in/rc-mendoza/)
+[![Email](https://img.shields.io/badge/email-roberto.cmp16%40gmail.com-3dff8b?style=flat-square&logo=gmail&logoColor=3dff8b&labelColor=070807)](mailto:roberto.cmp16@gmail.com)
+
+</div>
+
+### `// whoami`
+
+```yaml
+role:        Frontend Engineer @ Entel — enabling team for Chile & Peru
+experience:  6+ years
+focus:       [frontend architecture, design systems, accessibility, core web vitals]
+also:        [REST APIs, microservices, GCP, Docker, CI/CD]
+exploring:   [generative AI, AI agents, MCP servers, development harnesses]
+languages:   [Spanish (native), English (professional)]
+status:      open to new challenges
+```
+
+### `// stack`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,astro,ts,js,html,css,tailwind&theme=dark" alt="React, Vue, Astro, TypeScript, JavaScript, HTML, CSS, Tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,firebase,kafka&theme=dark" alt="Node.js, NestJS, Express, PostgreSQL, Prisma, Firebase, Kafka" /><br/>
+  <img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,linux,jest,git&theme=dark" alt="GCP, Docker, GitHub Actions, Linux, Jest, Git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+### `// ls ~/projects`
 
-<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robcmp&show_icons=true&locale=en&layout=compact" alt="robcmp" />
+Own products, designed, built and self-hosted end to end on my VPS.
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Budget For Both** | Personal and couples finance with zero-knowledge, client-side encryption | Vue 3 · NestJS · Prisma · PostgreSQL |
+| **What I Have** | Household inventory and shopping list, operable by any MCP-capable AI agent | React 19 · NestJS 11 · MCP · Tailwind v4 |
+| **Family Health** | Family health tracking with lab-result OCR, trend charts and PDF reports | React 19 · Express · PostgreSQL · OCR |
+| **DailyFlow** | Tracks public transport and books gym classes automatically | NestJS · React · Playwright · BullMQ |
+
+### `// git log --stats`
+
+<p>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=robcmp&theme=github_dark" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robcmp&theme=github_dark" alt="Most committed languages" />
 </p>
-<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=robcmp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robcmp&" alt="robcmp" /></p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=robcmp&hide_border=true&background=070807&ring=3DFF8B&fire=3DFF8B&currStreakLabel=3DFF8B&sideLabels=E8EDE6&currStreakNum=E8EDE6&sideNums=E8EDE6&dates=8A8F88&stroke=1A1D1A" alt="GitHub streak" />
+</p>
