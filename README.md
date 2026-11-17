@@ -7,7 +7,8 @@
 **Frontend Engineer · Full Stack · Cloud · Applied AI** — Santiago, Chile
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-rc--mendoza-3dff8b?style=flat-square&logo=linkedin&logoColor=3dff8b&labelColor=070807)](https://www.linkedin.com/in/rc-mendoza/)
-[![Email](https://img.shields.io/badge/email-roberto.cmp16%40gmail.com-3dff8b?style=flat-square&logo=gmail&logoColor=3dff8b&labelColor=070807)](mailto:roberto.cmp16@gmail.com)
+[![Email](https://img.shields.io/badge/email-robcmpdev%40gmail.com-3dff8b?style=flat-square&logo=gmail&logoColor=3dff8b&labelColor=070807)](mailto:robcmpdev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/portfolio-rm.byteforus.com-3dff8b?style=flat-square&logo=astro&logoColor=3dff8b&labelColor=070807)](https://rm.byteforus.com/)
 
 </div>
 
@@ -37,10 +38,10 @@ Own products, designed, built and self-hosted end to end on my VPS.
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Budget For Both** | Personal and couples finance with zero-knowledge, client-side encryption | Vue 3 · NestJS · Prisma · PostgreSQL |
-| **What I Have** | Household inventory and shopping list, operable by any MCP-capable AI agent | React 19 · NestJS 11 · MCP · Tailwind v4 |
-| **Family Health** | Family health tracking with lab-result OCR, trend charts and PDF reports | React 19 · Express · PostgreSQL · OCR |
-| **DailyFlow** | Tracks public transport and books gym classes automatically | NestJS · React · Playwright · BullMQ |
+| **[Budget For Both](https://budget.byteforus.com)** | Personal and couples finance with zero-knowledge, client-side encryption | Vue 3 · NestJS · Prisma · PostgreSQL |
+| **[What I Have](https://whatihave.byteforus.com)** | Household inventory and shopping list, operable by any MCP-capable AI agent | React 19 · NestJS 11 · MCP · Tailwind v4 |
+| **[Family Health](https://familyhealth.byteforus.com)** | Family health tracking with lab-result OCR, trend charts and PDF reports | React 19 · Express · PostgreSQL · OCR |
+| **DailyFlow** (private) | Tracks public transport and books gym classes automatically | NestJS · React · Playwright · BullMQ |
 
 ### `// git log --stats`
 
